@@ -1,4 +1,4 @@
-package com.company.app;
+package com.mycompany.app;
 
 public class Greeter {
 	public Greeter() {
@@ -6,6 +6,6 @@ public class Greeter {
 	}
 
 	public String SayHello() {
-		return "hi!";
+		return "hello";
 	}
 }
